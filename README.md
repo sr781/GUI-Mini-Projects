@@ -1,9 +1,7 @@
 # GUI-Mini-Projects
 GUI mini projects
 
-@settings {
-  font-size: 100;
-}
+
 
 (1) The Spirograph
 
@@ -25,3 +23,8 @@ Figure 2: The race begins
 ![turtle_race_2](https://user-images.githubusercontent.com/96390217/183493845-2fa007f7-ea56-49d7-8fb0-f3261f94ebeb.PNG)
 
 Figure 3: The race finishes when a turtle reaches the end
+#
+
+(3) Etch a sketch
+
+![etch](https://user-images.githubusercontent.com/96390217/183495019-92566e9a-1d93-423c-97ea-27258bb4a783.PNG)
