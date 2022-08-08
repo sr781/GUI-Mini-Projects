@@ -1,5 +1,5 @@
 # GUI-Mini-Projects
-GUI mini projects
+GUI mini projects. These mini-projects were created to showcase my skills on the Python graphical user interface
 
 To run, copy and paste code into an IDE
 
