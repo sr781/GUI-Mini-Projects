@@ -1,6 +1,7 @@
 # GUI-Mini-Projects
 GUI mini projects
 
+To run, copy and paste code into an IDE
 
 
 (1) The Spirograph
