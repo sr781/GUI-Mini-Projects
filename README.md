@@ -29,3 +29,5 @@ Figure 3: The race finishes when a turtle reaches the end
 (3) Etch a sketch
 
 ![etch](https://user-images.githubusercontent.com/96390217/183495019-92566e9a-1d93-423c-97ea-27258bb4a783.PNG)
+
+Figure 4: Using "WASD" to control the turtle, the word "HI" is created
